@@ -27,7 +27,7 @@ namespace pt_lab3_6
             public string imie;
             public string nazwisko;
             public long pesel;
-            public string rejon; //DELeTE?
+            public string rejon; //DELeTE? YES
             public DateTime data_zatrudnienia;
 
             public override string ToString()
