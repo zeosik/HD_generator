@@ -24,7 +24,7 @@ namespace pt_lab3_6
         public class Pracownik_Marek
         {
             public long id;
-            public string imie;
+            public string imie; //test comment
             public string nazwisko;
             public long pesel;
             public string rejon; //DELeTE?
